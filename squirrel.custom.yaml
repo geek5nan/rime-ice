@@ -10,9 +10,9 @@ patch:
     com.jetbrains.toolbox.linkapp.pcom.jetbrains.toolbox__ndroid_tudio_iraffe_2022_3_1_eta_2:
      ascii_mode: true
      vim_mode: true
-    com.google.android.studio-EAP:
+    com.google.android.studio:
      ascii_mode: true
-     vim_mode: true
+     # vim_mode: true
     #com.microsoft.VSCode:
     #  ascii_mode: true   # 初始爲西文模式
     #  vim_mode: true
