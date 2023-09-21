@@ -2,16 +2,18 @@ patch:
   # ascii_mode、inline、no_inline、vim_mode 等等设定，可参考 /Library/Input Methods/Squirrel.app/Contents/SharedSupport/squirrel.yaml
   app_options:
     com.raycast.macos:
-     ascii_mode: true
+      ascii_mode: true
     com.apple.finder:
-     ascii_mode: true
+      ascii_mode: true
     com.googlecode.iterm2:
-     ascii_mode: true
+      ascii_mode: true
     com.jetbrains.toolbox.linkapp.pcom.jetbrains.toolbox__ndroid_tudio_iraffe_2022_3_1_eta_2:
-     ascii_mode: true
-     vim_mode: true
+      ascii_mode: true
+      vim_mode: true
     com.google.android.studio:
-     ascii_mode: true
+      ascii_mode: true
+    com.google.android.studio-EAP:
+      ascii_mode: true
      # vim_mode: true
     #com.microsoft.VSCode:
     #  ascii_mode: true   # 初始爲西文模式
